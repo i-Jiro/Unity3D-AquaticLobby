@@ -10,10 +10,10 @@ Material:
   m_Name: Glass
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_ValidKeywords:
-  - _EMISSION
+  - _SPECULAR_SETUP
   - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords: []
-  m_LightmapFlags: 1
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 3000
@@ -102,18 +102,18 @@ Material:
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0.721
+    - _Smoothness: 0.767
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 5
     - _Surface: 1
-    - _WorkflowMode: 1
+    - _WorkflowMode: 0
     - _ZWrite: 0
     m_Colors:
-    - _BaseColor: {r: 0.012949424, g: 0.88804054, b: 0.9150943, a: 0.45490196}
-    - _Color: {r: 0.012949424, g: 0.88804054, b: 0.9150943, a: 0.45490196}
+    - _BaseColor: {r: 0.012949424, g: 0.88804054, b: 0.9150943, a: 0.31764707}
+    - _Color: {r: 0.012949424, g: 0.88804054, b: 0.9150943, a: 0.31764707}
     - _EmissionColor: {r: 0.00073529413, g: 0.0029411765, b: 0.006219363, a: 1}
-    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _SpecColor: {r: 0.45683515, g: 0.5471698, b: 0.54437304, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &3897797701691960307
 MonoBehaviour:
