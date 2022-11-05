@@ -2,7 +2,7 @@
 
 ![Lobby](https://user-images.githubusercontent.com/10013436/200131223-284a3dd4-8c65-411d-b4e4-33b930fa3858.gif)
 
-The intended design of the lobby was for applications relating to aquatic based experiences.
+The intended design of the lobby was for VR applications relating to aquatic based experiences.
 Aim of the overall purpose of the lobby was to provide a safe, dark, and immersive area to slowly acclimate users to the upcoming main virtual experience.
 
 ## Design Process Slides
