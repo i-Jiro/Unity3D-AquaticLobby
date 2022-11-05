@@ -6,6 +6,8 @@ The intended design of the lobby was for VR applications relating to aquatic bas
 Aim of the overall purpose of the lobby was to provide a safe, dark, and immersive area to slowly acclimate users to the upcoming main virtual experience.
 
 ## Design Process Slides
+[Moodboard](https://i.imgur.com/8TP9tVp.png)
+
 [Grayboxing the lobby with Probuilder](https://docs.google.com/presentation/d/1LPNM02Kut9Hm9xwu3xL1kiza1CRSaqc8vIcvLWFOPyE/edit?usp=sharing)
 
 [Applying PBR textures to the lobby](https://docs.google.com/presentation/d/1E-tvqpYGLGhVmVot5natmtunNyo5YHK76CB7zwdmE4E/edit?usp=sharing)
